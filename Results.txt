@@ -1,0 +1,108 @@
+
+
+	
+	
+Aurobindo_x
+thet = [  -280.15  -333.45  -190.24  -198.36  -729.16   859.47 ]
+avg = [649.86 658.26 625.51 3008143.1 640.35 19057.7]
+
+Latest_p = 653.35
+res = thet * avg = 23.6 
+LOSS
+value = 236
+%age distribution = 
+Approx Investment = 
+	
+
+Britiannia_x
+thet = [ 175.754   1287.647   1578.603     75.843    552.420   -705.699 ]
+avg = [2704.86 2745.21 2649.95 226780.80 2705.79 6103.26]
+Latest_p = 2564.2
+res = thet * avg = -22.7
+LOSS
+value =44
+%age distribution = 
+Approx Investment = 
+
+Intrasoft_x
+thet = [   61.5025   334.2800   189.0066   201.1208     4.7276  -178.3054 ]
+avg = [2953.05 3023.55 2811.45 255292.0 2919.95 748.58]
+Latest_p = 306.6
+res = thet * avg = -97.3
+GAIN
+value = 97
+%age distribution = 
+Approx Investment = 
+
+Jet_x
+thet = [ -215.004   389.014   164.356    53.651   102.865  -183.132 ]
+avg = [5476.90 5560.0 5280.1 49993257.0 5381.45 269407.79]
+Latest_p = 566.2
+res = thet * avg = 53.6
+GAIN
+value = 53
+%age distribution = 
+Approx Investment = 
+
+Nilkamal_x
+thet = [  -121.69   282.01   505.71   489.72   107.34  -472.57 ]
+avg = [10326.300000000001, 10511.949999999999, 9922.15, 1200404.0, 10109.150000000001, 12312.65]
+Latest_p = 1099.15
+res = thet * avg = 114.8
+GAIN
+value = 570
+%age distribution = 
+Approx Investment = 
+
+sbi_x
+thet = [   -229.4157  -125.3525    70.6123    -5.5088   -82.9068   133.4015 ]
+avg = [1604.6499999999999, 1638.8999999999999, 1558.95, 256057562.0, 1596.6000000000001, 409535.50999999995]
+Latest_p = 167.85
+res = thet * avg = 30.2
+GAIN
+value = 150
+%age distribution = 
+Approx Investment = 
+
+Sh_x
+thet = [ -3.3079   -3.2108   -5.9617    8.5355    4.1028  -13.5048 ]
+avg = [114.95, 117.1, 112.1, 26532547.0, 114.15, 3057.9799999999996]
+Latest_p = 11.4
+res = thet * avg = -0.6*10 = -6
+LOSS
+value = 60
+%age distribution = 
+Approx Investment = 
+
+TCS_x
+thet = [  35.369  -3147.054    382.200  -2882.937  -1820.378   3435.050 ]
+avg = [22715.80 22925.5 22461.050000000003, 7860450.0, 22674.350000000002, 177984.75999999998]
+Latest_p = 2269.15
+res = thet * avg = 22.27
+LOSS
+GAIN
+value = 222
+%age distribution = 
+Approx Investment = 
+
+vedanta_x
+thet = [ 56.15217   -76.29314   -48.66261     0.21017  -178.07938   271.57829 ]
+avg = [725.2, 749.7, 703.4499999999999, 213745317.0, 729.1999999999999, 155606.88]
+Latest_p = 75.0
+res = thet * avg = -15
+LOSS
+GAIN
+value = 66
+%age distribution = 
+Approx Investment = 
+
+Yes_x
+thet = [ 75.340    848.464   -385.365    -52.472  -1579.273   1467.053 ]
+avg = [7154.999999999999, 7242.05, 6980.249999999999, 36730485.0, 7078.65, 259914.09999999998]
+Latest_p = 753.4
+res = thet * avg = -74
+LOSS
+GAIN
+value = 74
+%age distribution = 
+Approx Investment = 
