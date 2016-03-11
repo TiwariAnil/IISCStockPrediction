@@ -4,16 +4,16 @@ clear ; close all; clc
 fprintf('Loading data ...\n');
 
 %% Load Data
-%data = load('D/Aurobindo_x.txt');
-%data = load('D/Britiannia_x.txt');
-%data = load('D/Intrasoft_x.txt');
-%data = load('D/Jet_x.txt');
-data = load('D/Nilkamal_x.txt');
-%data = load('D/sbi_x.txt');
-%data = load('D/Sh_x.txt');
-%data = load('D/TCS_x.txt');
-%data = load('D/vedanta_x.txt');
-%data = load('D/Yes_x.txt');
+%data = load('Data/Aurobindo_x.txt');
+%data = load('Data/Britiannia_x.txt');
+%data = load('Data/Intrasoft_x.txt');
+%data = load('Data/Jet_x.txt');
+data = load('Data/Nilkamal_x.txt');
+%data = load('Data/sbi_x.txt');
+%data = load('Data/Sh_x.txt');
+%data = load('Data/TCS_x.txt');
+%data = load('Data/vedanta_x.txt');
+%data = load('Data/Yes_x.txt');
 
 %number of training sets : rows
 count_data_rows = size(data,1) ;
@@ -30,8 +30,6 @@ x_col = size(X,2);
 
 fprintf('Normalizing Features ...\n');
 %[X mu sigma] = featureNormalize(X);
-
-
 
 %% ================ Grad Descent ================
 
@@ -71,6 +69,4 @@ for front_point=11:count_data_rows
       Y_result(front_point,1) = pk;
 end;
 % calculate the next value new_y() = theta' * x(i)
-
 pause;
-
