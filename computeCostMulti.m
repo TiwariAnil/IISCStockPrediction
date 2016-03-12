@@ -10,5 +10,5 @@ square_deviation = cost_matrix.^2; % each element ^2
 %ero = sum(square_deviation)
 J = 1/ (2*m) * sum(square_deviation);
 
-% =========================================================================
+% =================================================
 end

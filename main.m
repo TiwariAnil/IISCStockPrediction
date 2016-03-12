@@ -40,7 +40,7 @@ alpha = 0.01;
 num_iters = 400;
 
 d = 10;       % Depth- 10 days
-alpha = 1.1;  %    approx doubles after 10 days
+alpha = 1.1;  % Approx doubles after 10 days
 beta = 1;      
 
 curr=1;
